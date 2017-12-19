@@ -1,0 +1,11 @@
+C:\Users\at133678\AppData\Local\Temporary Projects\Menu\bin\Debug\Menu.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\bin\Debug\Menu.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\obj\Debug\Menu.Resources.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\obj\Debug\Menu.vbproj.GenerateResource.Cache
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\obj\Debug\Menu.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Menu\Menu\obj\Debug\Menu.pdb

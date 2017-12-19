@@ -1,0 +1,11 @@
+C:\Users\at133678\AppData\Local\Temporary Projects\Racing Cars\bin\Debug\Racing Cars.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\bin\Debug\Racing Cars.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\obj\Debug\Racing_Cars.CarRace.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\obj\Debug\Racing_Cars.Resources.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\obj\Debug\Racing Cars.vbproj.GenerateResource.Cache
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\bin\Debug\Racing Cars.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\bin\Debug\Racing Cars.pdb
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\bin\Debug\Racing Cars.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\obj\Debug\Racing Cars.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\obj\Debug\Racing Cars.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Racing Cars\Racing Cars\obj\Debug\Racing Cars.pdb

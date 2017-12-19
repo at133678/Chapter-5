@@ -1,0 +1,14 @@
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\bin\Debug\Right Triangle ABC.exe.config
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\bin\Debug\Right Triangle ABC.exe
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\bin\Debug\Right Triangle ABC.pdb
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\bin\Debug\Right Triangle ABC.xml
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\obj\Debug\Right_Triangle_ABC.RightTriangleABC.resources
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\obj\Debug\Right_Triangle_ABC.Resources.resources
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\obj\Debug\Right Triangle ABC.vbproj.GenerateResource.Cache
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\obj\Debug\Right Triangle ABC.exe
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\obj\Debug\Right Triangle ABC.xml
+C:\Users\at133678\AppData\Local\Temporary Projects\Right Triangle ABC\obj\Debug\Right Triangle ABC.pdb
+C:\Users\at133678\Desktop\V.B\Chapter 5\Right Triangle ABC\Right Triangle ABC\bin\Debug\Right Triangle ABC.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Right Triangle ABC\Right Triangle ABC\obj\Debug\Right Triangle ABC.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Right Triangle ABC\Right Triangle ABC\obj\Debug\Right Triangle ABC.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Right Triangle ABC\Right Triangle ABC\obj\Debug\Right Triangle ABC.pdb

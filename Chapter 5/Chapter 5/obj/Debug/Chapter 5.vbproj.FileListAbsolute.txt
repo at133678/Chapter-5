@@ -1,0 +1,11 @@
+C:\Users\at133678\AppData\Local\Temporary Projects\Chapter 5\bin\Debug\Chapter 5.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.pdb
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.RunningTotal.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Resources.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\obj\Debug\Chapter 5.vbproj.GenerateResource.Cache
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\obj\Debug\Chapter 5.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\obj\Debug\Chapter 5.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Chapter 5\Chapter 5\obj\Debug\Chapter 5.pdb

@@ -1,0 +1,11 @@
+C:\Users\at133678\AppData\Local\Temporary Projects\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.DistanceCalculator.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Resources.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbproj.GenerateResource.Cache
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb

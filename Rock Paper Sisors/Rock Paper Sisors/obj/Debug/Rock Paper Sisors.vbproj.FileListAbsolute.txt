@@ -1,0 +1,11 @@
+C:\Users\at133678\AppData\Local\Temporary Projects\Rock Paper Sisors\bin\Debug\Rock Paper Sisors.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\bin\Debug\Rock Paper Sisors.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\bin\Debug\Rock Paper Sisors.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\bin\Debug\Rock Paper Sisors.pdb
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\bin\Debug\Rock Paper Sisors.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\obj\Debug\Rock_Paper_Sisors.RockPaperSissors.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\obj\Debug\Rock_Paper_Sisors.Resources.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\obj\Debug\Rock Paper Sisors.vbproj.GenerateResource.Cache
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\obj\Debug\Rock Paper Sisors.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\obj\Debug\Rock Paper Sisors.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Rock Paper Sisors\Rock Paper Sisors\obj\Debug\Rock Paper Sisors.pdb

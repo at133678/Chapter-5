@@ -1,0 +1,10 @@
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\obj\Debug\oin_Toss.Form1CoinToss.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\obj\Debug\oin_Toss.Resources.resources
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.Cache
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\bin\Debug\Coin Toss.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\obj\Debug\Coin Toss.xml
+C:\Users\at133678\Desktop\V.B\Chapter 5\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb
